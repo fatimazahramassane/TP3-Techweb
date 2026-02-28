@@ -7,8 +7,8 @@ Technologies Used
 - Local images (logo, icons, menu, etc.)
 ## Project Structure
 
-/TP3_TechWeb
-│
+
+
 ├── googl.html
 ├── favicon.ico
 │
