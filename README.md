@@ -6,6 +6,7 @@ Technologies Used
 - CSS3 (Styling and layout)
 - Local images (logo, icons, menu, etc.)
 ## Project Structure
+
 /TP3_TechWeb
 │
 ├── googl.html
